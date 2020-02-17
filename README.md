@@ -18,7 +18,10 @@ When I start it, I refer to another project by [@RodrigoGantier][2] .
 * [demo_human_pose.ipynb][8] A new demo for images input from the "images" folder. [04-11-2018]
 * [video_demo.py][9] A new demo for video input from camera.[04-11-2018]
 
-
+![Original Image](https://github.com/lixiaolei1982/DenseNet-base-Mask-RCNN-for-Human-Pose-Estimation/blob/master/images/000000004134.jpg
+)
+![Pose Image](https://github.com/lixiaolei1982/DenseNet-base-Mask-RCNN-for-Human-Pose-Estimation/blob/master/images/untitled8.png)
+![Mask Image](https://github.com/lixiaolei1982/DenseNet-base-Mask-RCNN-for-Human-Pose-Estimation/blob/master/images/untitled9.png)
   [1]: https://github.com/matterport/Mask_RCNN/issues/2
   [2]: https://github.com/RodrigoGantier/Mask_R_CNN_Keypoints
   [3]: https://github.com/matterport/Mask_RCNN
